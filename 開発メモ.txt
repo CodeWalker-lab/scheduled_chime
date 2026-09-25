@@ -1,0 +1,21 @@
+v1.2：名称変更（定刻チャイム）音源変えれば学校用途だけではないので
+v1.1：テキストボックスのファイル名のみ表示（設定音源の見える化）
+v1.0：未選択時のアラート表示＆タイマー中断（安全性の強化）
+
+
+
+●VSCodeでソースコードをバックグランド実行させるコマンド
+（実行画面の終了を待たない）
+
+　> start pyw chime.py
+
+●EXEファイルの生成
+
+1.PyInstaller（パッケージャ）のインストール
+
+　> pip install pyinstaller
+
+2.exeファイルの生成コマンド（アイコン指定ないと鳥の羽）
+
+　> py -m PyInstaller --onefile --noconsole --icon=myicon.ico --add-data "myicon.ico;." chime.py
+

@@ -1,0 +1,3 @@
+  - 利用方法：
+  - ①[アプリファイル](https://github.com/CodeWalker-lab/scheduled_chime/blob/main/scheduled_chime.exe)（.EXE）とサンプル音源ファイル（.WAV）をWindows PCにコピー
+  - ②アプリファイルを実行し、デフォルト時間から定刻に変更する。音源ファイルを選択して開始ボタンを押す。

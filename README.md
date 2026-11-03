@@ -3,6 +3,9 @@
 * 開発背景：
 講師が休み時間を忘れ、10分、20分と授業を続けるため、作ってあげました。
 
+<img width="277" height="296" alt="image" src="https://github.com/user-attachments/assets/635779a6-be01-4d7b-865d-5f2724836388" />
+
+
 * 開発環境：
   Visual Studio Code
   
